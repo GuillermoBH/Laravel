@@ -2,6 +2,7 @@
 
 
 die($_SERVER['REQUEST_URI']); //Solicitar url
+echo ("Hola");
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
